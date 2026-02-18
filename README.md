@@ -79,4 +79,5 @@ Set up secrets and environment variables
 Deploy and share your app!
 
 📬 Contact
-For queries or contributions, reach out to Pragna Padamata at pragnasrilalithapadamata@gmail.com
+For queries or contributions, reach out to Gadiraju Rishitha at gadirajurishitha@gmail.com
+
